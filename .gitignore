@@ -1,6 +1,0 @@
-validation_results.json
-__pycache__/
-*.pyc
-.venv/
-venv/
-great_expectations/uncommitted/
